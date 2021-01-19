@@ -18,7 +18,7 @@
 - 📫 How to reach me **https://www.linkedin.com/in/nirodha-lakmali-060965192/**
 
 - ⚡ Fun fact **coding & web designing and developing & Learning**
-<br>
+
 <h3 align="right">Connect with me:</h3>
 <p align="right">
 <a href="https://codepen.io/nirodha-github" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="nirodha-github" height="30" width="40" /></a>
