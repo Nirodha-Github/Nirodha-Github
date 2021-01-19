@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Nirodha Lakmali 👋
 
 <!--
 **Nirodha-Github/Nirodha-Github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
