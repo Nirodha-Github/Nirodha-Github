@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nirodha Lakmali</h1>
-<h3 align="center">Undergraduate at SUSL | Content Writer | Typist | Knowledge Seeker</h3>
+<h1 align="center">Hi 👋, I'm Nirodha Lakmali😎🥰😊</h1>
+<h3 align="center">Undergraduate at SUSL 👩‍🎓| Content Writer✍ | Typist👩‍💻 | Knowledge Seeker😍</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirodha-github&label=Profile%20views&color=0e75b6&style=flat" alt="nirodha-github" /> </p>
 
