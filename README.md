@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirodha-github&label=Profile%20views&color=0e75b6&style=flat" alt="nirodha-github" /> </p>
 
-- 🔭 I’m currently working on [E-Learning Website](https://github.com/Nirodha-Github/E-Learning_site)
+- 🔭 I’m currently working on [Vehicle-Rental-System](https://github.com/MEKSankalpa/Vehicle-Rental-System)
 
 - 🌱 I’m currently learning **about Web development**
 
-- 👯 I’m looking to collaborate on [Maintain-your-fitness-due-to-COVID-19-and-stay-at-home](https://github.com/Nirodha-Github/Maintain-your-fitness-due-to-COVID-19-and-stay-at-home)
+- 👯 I’m looking to collaborate on [Vehicle-Rental-System](https://github.com/MEKSankalpa/Vehicle-Rental-System)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nirodha-Github](https://github.com/Nirodha-Github)
 
