@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nirodha-github" alt="nirodha-github" /></a> </p>
 
-- 🔭 I’m currently working on [Vehicle-Rental-System](https://github.com/MEKSankalpa/Vehicle-Rental-System)
+- 🔭 I’m currently working on Open Source Contributing
 
 - 🌱 I’m currently learning **about Web development**
 
