@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **about Web development**
 
-- 👯 I’m looking to collaborate on [Vehicle-Rental-System](https://github.com/MEKSankalpa/Vehicle-Rental-System)
-
 - 👨‍💻 All of my projects are available at [https://github.com/Nirodha-Github](https://github.com/Nirodha-Github)
 
 - 📝 I regularly write articles on [http://windowsgeek.lk/author/nirodhal/](http://windowsgeek.lk/author/nirodhal/)
