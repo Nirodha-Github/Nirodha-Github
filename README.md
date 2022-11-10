@@ -7,6 +7,9 @@
 
 <!-- - 🔭 I’m currently working on Open Source Contributing -->
 
+- 👩‍💻 I'm an Intern Software Engineer at [Spera Labs (Pvt) Ltd](https://speralabs.com/)
+
+- 👩‍🎓 I'm an undergraduate student in the Department of Computing and Information Systems at the [Sabaragamuwa University of Sri Lanka](https://www.sab.ac.lk/)
 
 - 🌱 I’m currently learning **about Web development**
 
