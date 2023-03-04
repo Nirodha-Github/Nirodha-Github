@@ -15,6 +15,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nirodha-Github](https://github.com/Nirodha-Github)
 
+- 👨‍💻 All of my projects are available at [https://github.com/Nirodha-Github](https://github.com/Nirodha-Lakmali)
+
 - 📝 I regularly write articles on [http://windowsgeek.lk/author/nirodhal/](http://windowsgeek.lk/author/nirodhal/)
 
 - 💬 Ask me about **anything you want to know**
