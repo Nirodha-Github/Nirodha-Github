@@ -7,7 +7,7 @@
 
 <!-- - 🔭 I’m currently working on Open Source Contributing -->
 
-- 👩‍💻 I'm an Associate Software Engineer at [Spera Labs (Pvt) Ltd](https://speralabs.com/)
+- 👩‍💻 I'm a Former Associate Software Engineer at [Spera Labs (Pvt) Ltd](https://speralabs.com/)
 
 - 👩‍🎓 I'm an undergraduate student in the Department of Computing and Information Systems at the [Sabaragamuwa University of Sri Lanka](https://www.sab.ac.lk/)
 
